@@ -2,7 +2,7 @@
 A small application to assist you in wordle!
 
 # How to download:
-On the right side of the page, click on releases to open up the latest release. Click on source-code (zip) in order to download the files. Once you have the file downloaded, right click and extract it anywhere you want. Open the folder it creates and run "Wordle Helper.exe" to use it.
+On the right side of the page, click on the hyper-link under releases to open up the latest release. Click on source-code (zip) in order to download the files. Once you have the file downloaded, right click and extract it anywhere you want. Open the folder it creates and run "Wordle Helper.exe" to use it.
 
 # Explanation:
 Open the Wordle Helper.exe file in order to boot up the program.
