@@ -1,6 +1,9 @@
 # Wordle Helper!
 A small application to assist you in wordle!
 
+# How to download:
+On the right side of the page, click on releases to open up the latest release. Click on source-code (zip) in order to download the files. Once you have the file downloaded, right click and extract it anywhere you want. Open the folder it creates and run "Wordle Helper.exe" to use it.
+
 # Explanation:
 Open the Wordle Helper.exe file in order to boot up the program.
 There is 2 lists of words, the one on the left titled "Next guesses to gain more data" gives you words that dont contain any letters you've already used, therefore giving you words that will yield you the most information.
